@@ -24,3 +24,36 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+.custom-popup1 {
+  background-image: url('/images/background1.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 250%; /* 可調整成 30% ~ 70% 看起來比較剛好 */
+  background-color: #fff; /* 記得加上底色 */
+}
+
+.custom-popup2 {
+  background-image: url('/images/background2.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 250%; /* 可調整成 30% ~ 70% 看起來比較剛好 */
+  background-color: #fff; /* 記得加上底色 */
+}
+
+.custom-popup3 {
+  background-image: url('/images/background3.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 250%; /* 可調整成 30% ~ 70% 看起來比較剛好 */
+  background-color: #fff; /* 記得加上底色 */
+}
+
+.custom-popup4 {
+  background-image: url('/images/background4.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 250%; /* 可調整成 30% ~ 70% 看起來比較剛好 */
+  background-color: #fff; /* 記得加上底色 */
+}
+
